@@ -1,0 +1,19 @@
+# outputs the scripts can recreate
+results_summary.csv
+
+# secrets
+.env
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# operating system
+.DS_Store
+Thumbs.db
